@@ -2,7 +2,7 @@
 
 This project demonstrates how to translate the built-in messages of Kendo UI for Angular components.
 
-For more details, refer to the article on [localizing messages]().
+For more details, refer to the article on [localizing messages](http://www.telerik.com/kendo-angular-ui/components/localization/).
 
 ## Extracting Messages
 
