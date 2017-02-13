@@ -1,6 +1,6 @@
 import { KendoI18nSamplePage } from './app.po';
 
-describe('kendo-i18n-sample App', function() {
+describe('kendo-angular-i18n-sample App', function() {
   let page: KendoI18nSamplePage;
 
   beforeEach(() => {
