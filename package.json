@@ -8,7 +8,10 @@
     "start": "ng serve",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "i18n-extract": "cd src && ng-xi18n",
+    "i18n-translate-kendo-es": "kendo-translate --messages-file src/i18n/messages.es.xlf --locale es-ES",
+    "i18n-translate": "npm run i18n-translate-kendo-es"
   },
   "private": true,
   "dependencies": {
