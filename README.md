@@ -46,7 +46,7 @@ To execute the end-to-end tests through [Protractor](http://www.protractortest.o
 
 ### Further Help
 
-To get more help on the Angular CLI tool:
+To get support for the Angular CLI tool:
 
 * Use `ng help`, or
-* Check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+* Check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md) file.
