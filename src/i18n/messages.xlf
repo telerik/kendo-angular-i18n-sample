@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="5a10e4d6d09c3955ba4f3c67d1f642e8f8172733" datatype="html">
+        <source>Hello, World!</source>
+        <target/>
+        <note priority="1" from="description">An introduction header for this sample</note>
+        <note priority="1" from="meaning">User welcome</note>
+      </trans-unit>
+      <trans-unit id="30bcb3a2fbc22fcab6ca805e74b90adb8ba1ae96" datatype="html">
+        <source>Drag a column header and drop it here to group by that column</source>
+        <target/>
+        <note priority="1" from="description">The label visible in the Grid group panel when it is empty</note>
+        <note priority="1" from="meaning">kendo.grid.groupPanelEmpty</note>
+      </trans-unit>
+      <trans-unit id="ff9cfd4bf3e40305db251f2b6961796c0550b4b0" datatype="html">
+        <source>No records available.</source>
+        <target/>
+        <note priority="1" from="description">The label visible in the Grid when there are no records</note>
+        <note priority="1" from="meaning">kendo.grid.noRecords</note>
+      </trans-unit>
+      <trans-unit id="b405dfc5ee42415daa08d54847d3010de1821111" datatype="html">
+        <source>Go to the first page</source>
+        <target/>
+        <note priority="1" from="description">The label for the first page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerFirstPage</note>
+      </trans-unit>
+      <trans-unit id="47aa4fe05f5a2577d3336971d7c44ce48802b860" datatype="html">
+        <source>Go to the previous page</source>
+        <target/>
+        <note priority="1" from="description">The label for the previous page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerPreviousPage</note>
+      </trans-unit>
+      <trans-unit id="90031133fca899b4e491d9fc51128c1a184afb30" datatype="html">
+        <source>Go to the next page</source>
+        <target/>
+        <note priority="1" from="description">The label for the next page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerNextPage</note>
+      </trans-unit>
+      <trans-unit id="fe84f2ea868286ce03e50b6e55558c16d675c753" datatype="html">
+        <source>Go to the last page</source>
+        <target/>
+        <note priority="1" from="description">The label for the last page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerLastPage</note>
+      </trans-unit>
+      <trans-unit id="89c1f616c25bb610824cd8a26473a03921df48bd" datatype="html">
+        <source>Page</source>
+        <target/>
+        <note priority="1" from="description">The label before the current page number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerPage</note>
+      </trans-unit>
+      <trans-unit id="0c9abe48f5d4bd2cb51846712e41864fc64aad6a" datatype="html">
+        <source>of</source>
+        <target/>
+        <note priority="1" from="description">The label before the total pages number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerOf</note>
+      </trans-unit>
+      <trans-unit id="7c1704d11bfb77340485acd891439c2b6c6616ca" datatype="html">
+        <source>items</source>
+        <target/>
+        <note priority="1" from="description">The label after the total pages number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerItems</note>
+      </trans-unit>
+      <trans-unit id="3331fe7ec45f299afaa4c1e08ea25c493eda9144" datatype="html">
+        <source>items per page</source>
+        <target/>
+        <note priority="1" from="description">The label for the page size chooser in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerItemsPerPage</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

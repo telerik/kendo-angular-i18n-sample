@@ -17,5 +17,9 @@
     "typeRoots": [
       "../node_modules/@types"
     ]
-  }
+  },
+  "angularCompilerOptions": {
+    "genDir": "i18n"
+  },
+  "exclude": [ "test.ts" ]
 }
