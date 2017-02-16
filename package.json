@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "i18n-extract": "cd src && ng-xi18n",
-    "i18n-translate-kendo-es": "kendo-translate --messages-file src/i18n/messages.es.xlf --locale es-ES",
+    "i18n-translate-kendo-es": "kendo-translate src/i18n/messages.es.xlf --locale es-ES",
     "i18n-translate": "npm run i18n-translate-kendo-es"
   },
   "private": true,
@@ -25,7 +25,7 @@
     "@angular/router": "^3.4.0",
     "@progress/kendo-angular-grid": "0.15.0",
     "@progress/kendo-angular-intl": "0.9.1",
-    "@progress/kendo-angular-messages": "0.1.0",
+    "@progress/kendo-angular-messages": "^1.0.0",
     "@progress/kendo-data-query": "0.3.6",
     "@progress/kendo-theme-default": "2.11.23",
     "core-js": "^2.4.1",

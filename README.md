@@ -6,13 +6,25 @@ For more details, refer to the article on [localization](http://www.telerik.com/
 
 ## Extracting Messages
 
-To extract the application messages in `src/i18n/messages.xlf`, run `npm run i18n-extract`.
+To extract the application messages in `src/i18n/messages.xlf`, run:
+
+```
+npm run i18n-extract
+```
 
 ## Translating Kendo UI Messages
 
-To automatically translate Kendo UI texts from the `@progress/kendo-angular-messages` message pack, run `npm run i18n-translate`.
+To automatically translate Kendo UI texts from the `@progress/kendo-angular-messages` message pack, run:
 
-To translate Kendo UI messages for the `"es-ES"` locale only, run `npm run i18n-translate-kendo-es`.
+```
+npm run i18n-translate
+```
+
+To translate Kendo UI messages for the `"es-ES"` locale only, run:
+
+```
+npm run i18n-translate-kendo-es
+```
 
 ## Original Angular CLI Documentation
 
