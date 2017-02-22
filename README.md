@@ -26,7 +26,7 @@ To translate Kendo UI messages for the `"es-ES"` locale only, run:
 npm run i18n-translate-kendo-es
 ```
 
-## Run the application in Spanish locale
+## Running the application with the Spanish locale
 
 ```
 ng serve --aot --i18n-file=src/i18n/messages.es.xlf --locale=es
