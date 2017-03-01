@@ -29,7 +29,7 @@ npm run i18n-translate-kendo-es
 ## Running the application with the Spanish locale
 
 ```
-ng serve --aot --i18n-file=src/i18n/messages.es.xlf --locale=es
+ng run start-es
 ```
 
 ## Original Angular CLI Documentation

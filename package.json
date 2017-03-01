@@ -6,6 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start-es": "ng serve --aot --i18n-file=src/i18n/messages.es.xlf --locale=es",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
