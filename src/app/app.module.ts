@@ -1,9 +1,12 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { HttpModule } from '@angular/http';
+import { Http, HttpModule, ConnectionBackend, BaseRequestOptions,
+         Response, ResponseOptions, ResponseType } from '@angular/http';
+import { MockBackend } from '@angular/http/testing';
 
 import { GridModule } from '@progress/kendo-angular-grid';
+import { UploadModule } from '@progress/kendo-angular-upload';
 
 import { AppComponent } from './app.component';
 
@@ -15,9 +18,14 @@ import { AppComponent } from './app.component';
     BrowserModule,
     FormsModule,
     GridModule,
-    HttpModule
+    HttpModule,
+    UploadModule
   ],
-  providers: [],
+  providers: [BaseRequestOptions, MockBackend, {
+    provide: Http,
+    deps: [MockBackend, BaseRequestOptions],
+    useClass: Http
+  }],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

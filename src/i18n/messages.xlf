@@ -8,6 +8,12 @@
         <note priority="1" from="description">An introduction header for this sample</note>
         <note priority="1" from="meaning">User welcome</note>
       </trans-unit>
+      <trans-unit id="6e7efbc7c5aaba040467d67d3ad22d7c9743398e" datatype="html">
+        <source>Select an image</source>
+        <target/>
+        <note priority="1" from="description">The text that is displayed in the image Upload selection button</note>
+        <note priority="1" from="meaning">Upload button text</note>
+      </trans-unit>
       <trans-unit id="30bcb3a2fbc22fcab6ca805e74b90adb8ba1ae96" datatype="html">
         <source>Drag a column header and drop it here to group by that column</source>
         <target/>
@@ -67,6 +73,84 @@
         <target/>
         <note priority="1" from="description">The label for the page size chooser in the Grid pager</note>
         <note priority="1" from="meaning">kendo.grid.pagerItemsPerPage</note>
+      </trans-unit>
+      <trans-unit id="262a7a2e1c2c01f72e494499e4031ca52bfb6c62" datatype="html">
+        <source>Cancel</source>
+        <target/>
+        <note priority="1" from="description">The text for the Cancel button</note>
+        <note priority="1" from="meaning">kendo.upload.cancel</note>
+      </trans-unit>
+      <trans-unit id="47d53c4c549530374586d580a1fffb90509aa114" datatype="html">
+        <source>Clear</source>
+        <target/>
+        <note priority="1" from="description">The text for the Clear button</note>
+        <note priority="1" from="meaning">kendo.upload.clearSelectedFiles</note>
+      </trans-unit>
+      <trans-unit id="ed0e4f0924eb8ac2dfc0a30d0852da2f0a356e8f" datatype="html">
+        <source>Drop files here to upload</source>
+        <target/>
+        <note priority="1" from="description">The drop zone hint</note>
+        <note priority="1" from="meaning">kendo.upload.dropFilesHere</note>
+      </trans-unit>
+      <trans-unit id="30d5eeceb66bae90056d593fcf90eecd851b36a4" datatype="html">
+        <source>Done</source>
+        <target/>
+        <note priority="1" from="description">The header status message after file upload completion</note>
+        <note priority="1" from="meaning">kendo.upload.headerStatusUploaded</note>
+      </trans-unit>
+      <trans-unit id="be0775f64ce53906c132f6b5a50280ff5b948b35" datatype="html">
+        <source>Uploading...</source>
+        <target/>
+        <note priority="1" from="description">The header status message during file upload</note>
+        <note priority="1" from="meaning">kendo.upload.headerStatusUploading</note>
+      </trans-unit>
+      <trans-unit id="8292c7f6c967dcade8639d0dd477a67ad08457c7" datatype="html">
+        <source>File type not allowed.</source>
+        <target/>
+        <note priority="1" from="description">The text for the invalid allowed extensions restriction message</note>
+        <note priority="1" from="meaning">kendo.upload.invalidFileExtension</note>
+      </trans-unit>
+      <trans-unit id="6dd7e145884074d6d0bf5302dd13b63a02c9b949" datatype="html">
+        <source>Invalid file(s). Please check file upload requirements.</source>
+        <target/>
+        <note priority="1" from="description">The text for the invalid files message</note>
+        <note priority="1" from="meaning">kendo.upload.invalidFiles</note>
+      </trans-unit>
+      <trans-unit id="1d3c53a4169aceb03929a0dcdd2f4c5436aa4470" datatype="html">
+        <source>File size too large.</source>
+        <target/>
+        <note priority="1" from="description">The text for the invalid max file size restriction message</note>
+        <note priority="1" from="meaning">kendo.upload.invalidMaxFileSize</note>
+      </trans-unit>
+      <trans-unit id="dde6c68c96cf06aab654c8054c516d0d12f6309a" datatype="html">
+        <source>File size too small.</source>
+        <target/>
+        <note priority="1" from="description">The text for the invalid min file size restriction message</note>
+        <note priority="1" from="meaning">kendo.upload.invalidMinFileSize</note>
+      </trans-unit>
+      <trans-unit id="1e81e5de447f5792cd15c18c435360a7b946ac70" datatype="html">
+        <source>Remove</source>
+        <target/>
+        <note priority="1" from="description">The text for the Remove button</note>
+        <note priority="1" from="meaning">kendo.upload.remove</note>
+      </trans-unit>
+      <trans-unit id="9150dfa816d23dfa75f231ca6f053f5e0ae26713" datatype="html">
+        <source>Retry</source>
+        <target/>
+        <note priority="1" from="description">The text for the Retry button</note>
+        <note priority="1" from="meaning">kendo.upload.retry</note>
+      </trans-unit>
+      <trans-unit id="24063b06532dc5303d28524d6245ba6d3eed80c1" datatype="html">
+        <source>Select files...</source>
+        <target/>
+        <note priority="1" from="description">The text for the Select button</note>
+        <note priority="1" from="meaning">kendo.upload.select</note>
+      </trans-unit>
+      <trans-unit id="3449491aa76964a8dceb9ed3957b6fc4c17f568f" datatype="html">
+        <source>Upload</source>
+        <target/>
+        <note priority="1" from="description">The text for the Upload files button</note>
+        <note priority="1" from="meaning">kendo.upload.uploadSelectedFiles</note>
       </trans-unit>
     </body>
   </file>
