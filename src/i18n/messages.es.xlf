@@ -274,7 +274,7 @@
       </trans-unit>
       <trans-unit id="d7dac1bbc2372d578a9d2bca099de766043aed7e" datatype="html">
         <source>Is after or equal to</source>
-        <target/>
+        <target>Es posterior o igual a</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">85</context>
@@ -284,7 +284,7 @@
       </trans-unit>
       <trans-unit id="bff777df0d0831cc02679227422fab4ef2763fa9" datatype="html">
         <source>Is after</source>
-        <target/>
+        <target>Es posterior</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">88</context>
@@ -294,7 +294,7 @@
       </trans-unit>
       <trans-unit id="35ef5cf367670f15432c9f8761bc85fbdb2b1830" datatype="html">
         <source>Is before</source>
-        <target/>
+        <target>Es anterior</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">91</context>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="27a6b29ffbc1eb498de8d7af20051461a2e842ec" datatype="html">
         <source>Is before or equal to</source>
-        <target/>
+        <target>Es anterior o igual a</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">94</context>
@@ -374,7 +374,7 @@
       </trans-unit>
       <trans-unit id="91a84f2d4871dbe7e90d84865d4a4d83c8ae041e" datatype="html">
         <source>TODAY</source>
-        <target/>
+        <target>Hoy</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
           <context context-type="linenumber">4</context>
@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="f6c28c2d80dbe993c4b33f4dc4010364f41cc2ae" datatype="html">
         <source>Toggle calendar</source>
-        <target/>
+        <target>Toggle calendar</target>
         <context-group purpose="location">
           <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
           <context context-type="linenumber">7</context>
