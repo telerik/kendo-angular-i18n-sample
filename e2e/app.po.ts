@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class KendoI18nSamplePage {
+export class KendoAngularI18nSamplePage {
   navigateTo() {
     return browser.get('/');
   }
