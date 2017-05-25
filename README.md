@@ -4,6 +4,19 @@ This project demonstrates how to translate the built-in messages of Kendo UI for
 
 For more details, refer to the article on [localization](http://www.telerik.com/kendo-angular-ui/components/localization/).
 
+## Table of Contents
+
+* [Extracting Messages](#extracting-messages)
+* [Translating Messages](#translating-messages)
+* [Running the Application](#running-the-application)
+* [Original Angular CLI Documentation](#original-angular-cli-documentation)
+    * [Development Server](#development-server)
+    * [Code Scaffolding](#code-scaffolding)
+    * [Builds](#builds)
+    * [Unit Tests](#unit-tests)
+    * [End-to-End Tests](#end-to-end-tests)
+    * [Further Help](#further-help)
+
 ## Extracting Messages
 
 To extract the application messages in `src/i18n/messages.xlf`, run:
@@ -12,7 +25,7 @@ To extract the application messages in `src/i18n/messages.xlf`, run:
 npm run i18n-extract
 ```
 
-## Translating Kendo UI Messages
+## Translating Messages
 
 To automatically translate Kendo UI texts from the `@progress/kendo-angular-messages` message pack, run:
 
@@ -26,7 +39,9 @@ To translate Kendo UI messages for the `"es-ES"` locale only, run:
 npm run i18n-translate-kendo-es
 ```
 
-## Running the application with the Spanish locale
+## Running the Application
+
+To run your application with the `es-ES` locale, run:
 
 ```
 ng run start-es
@@ -48,7 +63,7 @@ The application will automatically reload each time you change a source file.
 
 To generate a new component, run `ng generate component component-name`. You can also use `ng generate directive/pipe/service/class/module`.
 
-### Build
+### Builds
 
 To build the project, run `ng build`. The build artifacts are stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
