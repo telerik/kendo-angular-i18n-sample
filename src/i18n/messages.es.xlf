@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
   <file source-language="es" datatype="plaintext" original="ng2.template">
     <body>
@@ -6,7 +6,7 @@
         <source>Drag a column header and drop it here to group by that column</source>
         <target>Arrastre el título de una columna y suéltelo aquí para agrupar por ese criterio</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">The label visible in the Grid group panel when it is empty</note>
@@ -16,7 +16,7 @@
         <source>No records available.</source>
         <target>No hay datos disponibles.</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
         <note priority="1" from="description">The label visible in the Grid when there are no records</note>
@@ -26,7 +26,7 @@
         <source>Go to the first page</source>
         <target>Ir a la primera página</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">10</context>
         </context-group>
         <note priority="1" from="description">The label for the first page button in Grid pager</note>
@@ -36,7 +36,7 @@
         <source>Go to the previous page</source>
         <target>Ir a la página anterior</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">13</context>
         </context-group>
         <note priority="1" from="description">The label for the previous page button in Grid pager</note>
@@ -46,7 +46,7 @@
         <source>Go to the next page</source>
         <target>Ir a la página siguiente</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">16</context>
         </context-group>
         <note priority="1" from="description">The label for the next page button in Grid pager</note>
@@ -56,7 +56,7 @@
         <source>Go to the last page</source>
         <target>Ir a la última página</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">19</context>
         </context-group>
         <note priority="1" from="description">The label for the last page button in Grid pager</note>
@@ -66,7 +66,7 @@
         <source>Page</source>
         <target>Página</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">22</context>
         </context-group>
         <note priority="1" from="description">The label before the current page number in the Grid pager</note>
@@ -76,7 +76,7 @@
         <source>of</source>
         <target>de</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">25</context>
         </context-group>
         <note priority="1" from="description">The label before the total pages number in the Grid pager</note>
@@ -86,7 +86,7 @@
         <source>items</source>
         <target>ítems</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">28</context>
         </context-group>
         <note priority="1" from="description">The label after the total pages number in the Grid pager</note>
@@ -96,7 +96,7 @@
         <source>items per page</source>
         <target>ítems por página</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">31</context>
         </context-group>
         <note priority="1" from="description">The label for the page size chooser in the Grid pager</note>
@@ -106,7 +106,7 @@
         <source>Is equal to</source>
         <target>Es igual a</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">34</context>
         </context-group>
         <note priority="1" from="description">The text of the equal filter operator</note>
@@ -116,7 +116,7 @@
         <source>Is not equal to</source>
         <target>No es igual a</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">37</context>
         </context-group>
         <note priority="1" from="description">The text of the not equal filter operator</note>
@@ -126,7 +126,7 @@
         <source>Is null</source>
         <target>Es nulo</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">40</context>
         </context-group>
         <note priority="1" from="description">The text of the is null filter operator</note>
@@ -136,7 +136,7 @@
         <source>Is not null</source>
         <target>No es nulo</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">43</context>
         </context-group>
         <note priority="1" from="description">The text of the is not null filter operator</note>
@@ -146,7 +146,7 @@
         <source>Is empty</source>
         <target>Está vacío</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">46</context>
         </context-group>
         <note priority="1" from="description">The text of the is empty filter operator</note>
@@ -156,7 +156,7 @@
         <source>Is not empty</source>
         <target>No está vacío</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">49</context>
         </context-group>
         <note priority="1" from="description">The text of the is not empty filter operator</note>
@@ -166,7 +166,7 @@
         <source>Starts with</source>
         <target>Comienza con</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">52</context>
         </context-group>
         <note priority="1" from="description">The text of the starts with filter operator</note>
@@ -176,7 +176,7 @@
         <source>Contains</source>
         <target>Contiene</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">55</context>
         </context-group>
         <note priority="1" from="description">The text of the contains filter operator</note>
@@ -186,7 +186,7 @@
         <source>Does not contain</source>
         <target>No contiene</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">58</context>
         </context-group>
         <note priority="1" from="description">The text of the does not contain filter operator</note>
@@ -196,7 +196,7 @@
         <source>Ends with</source>
         <target>Termina en</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">61</context>
         </context-group>
         <note priority="1" from="description">The text of the ends with filter operator</note>
@@ -206,7 +206,7 @@
         <source>Is greater than or equal to</source>
         <target>Es mayor o igual que</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">64</context>
         </context-group>
         <note priority="1" from="description">The text of the greater than or equal filter operator</note>
@@ -216,7 +216,7 @@
         <source>Is greater than</source>
         <target>Es mayor que</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">67</context>
         </context-group>
         <note priority="1" from="description">The text of the greater than filter operator</note>
@@ -226,7 +226,7 @@
         <source>Is less than or equal to</source>
         <target>Es menor o igual que</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">70</context>
         </context-group>
         <note priority="1" from="description">The text of the less than or equal filter operator</note>
@@ -236,7 +236,7 @@
         <source>Is less than</source>
         <target>Es menor o igual que</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">73</context>
         </context-group>
         <note priority="1" from="description">The text of the less than filter operator</note>
@@ -246,7 +246,7 @@
         <source>Is True</source>
         <target>Sí</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">76</context>
         </context-group>
         <note priority="1" from="description">The text of the IsTrue boolean filter option</note>
@@ -256,7 +256,7 @@
         <source>Is False</source>
         <target>No</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">79</context>
         </context-group>
         <note priority="1" from="description">The text of the IsFalse boolean filter option</note>
@@ -266,7 +266,7 @@
         <source>(All)</source>
         <target>(Todas)</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">82</context>
         </context-group>
         <note priority="1" from="description">The text of the (All) boolean filter option</note>
@@ -276,7 +276,7 @@
         <source>Is after or equal to</source>
         <target>Es posterior o igual a</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">85</context>
         </context-group>
         <note priority="1" from="description">The text of the after or equal date filter operator</note>
@@ -286,7 +286,7 @@
         <source>Is after</source>
         <target>Es posterior</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">88</context>
         </context-group>
         <note priority="1" from="description">The text of the after date filter operator</note>
@@ -296,7 +296,7 @@
         <source>Is before</source>
         <target>Es anterior</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">91</context>
         </context-group>
         <note priority="1" from="description">The text of the before date filter operator</note>
@@ -306,7 +306,7 @@
         <source>Is before or equal to</source>
         <target>Es anterior o igual a</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-grid/dist/es/grid.component.d.ts</context>
           <context context-type="linenumber">94</context>
         </context-group>
         <note priority="1" from="description">The text of the before or equal date filter operator</note>
@@ -314,9 +314,9 @@
       </trans-unit>
       <trans-unit id="5a10e4d6d09c3955ba4f3c67d1f642e8f8172733" datatype="html">
         <source>Hello, World!</source>
-        <target>¡Hola Mundo!</target>
+        <target/>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/app.component.ts</context>
+          <context context-type="sourcefile">app/app.component.ts</context>
           <context context-type="linenumber">1</context>
         </context-group>
         <note priority="1" from="description">An introduction header for this sample</note>
@@ -326,7 +326,7 @@
         <source>Increase value</source>
         <target>Incrementar valor</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/es/numerictextbox/numerictextbox.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/numerictextbox/numerictextbox.component.d.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">The title for the **Increment** button in the NumericTextBox</note>
@@ -336,7 +336,7 @@
         <source>Decrease value</source>
         <target>Disminuir valor</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/dist/es/numerictextbox/numerictextbox.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/numerictextbox/numerictextbox.component.d.ts</context>
           <context context-type="linenumber">6</context>
         </context-group>
         <note priority="1" from="description">The title for the **Decrement** button in the NumericTextBox</note>
@@ -346,7 +346,7 @@
         <source>Increase value</source>
         <target>Incrementar valor</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/dateinput/dateinput.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-dateinputs/dist/es/dateinput/dateinput.component.d.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">The label for the **Increment** button in the DateInput</note>
@@ -356,7 +356,7 @@
         <source>Decrease value</source>
         <target>Disminuir valor</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/dateinput/dateinput.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-dateinputs/dist/es/dateinput/dateinput.component.d.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
         <note priority="1" from="description">The label for the **Decrement** button in the DateInput</note>
@@ -366,7 +366,7 @@
         <source>TODAY</source>
         <target>Hoy</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/calendar/calendar.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-dateinputs/dist/es/calendar/calendar.component.d.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">The label for the today button in the calendar header</note>
@@ -376,7 +376,7 @@
         <source>TODAY</source>
         <target>Hoy</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
           <context context-type="linenumber">4</context>
         </context-group>
         <note priority="1" from="description">The label for the today button in the calendar header</note>
@@ -386,11 +386,61 @@
         <source>Toggle calendar</source>
         <target>Toggle calendar</target>
         <context-group purpose="location">
-          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-dateinputs/dist/es/datepicker/datepicker.component.d.ts</context>
           <context context-type="linenumber">7</context>
         </context-group>
         <note priority="1" from="description">The label for the toggle button in the datepicker component</note>
         <note priority="1" from="meaning">kendo.datepicker.toggle</note>
+      </trans-unit>
+      <trans-unit id="0fa71630d40c425b9c366afd7f6c3cecc5bef59d" datatype="html">
+        <source>increment</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/slider/slider.component.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **Increase** button of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.increment</note>
+      </trans-unit>
+      <trans-unit id="042c26f68d78afd6834ea46a5f7533850fe8c800" datatype="html">
+        <source>decrement</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/slider/slider.component.d.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **Decrease** button of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.decrement</note>
+      </trans-unit>
+      <trans-unit id="481eb98e9cd8ef8e8b22051796441901e883763d" datatype="html">
+        <source>Drag</source>
+        <target/>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/slider/slider.component.d.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+        <note priority="1" from="description">The title of the drag handle of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.dragHandle</note>
+      </trans-unit>
+      <trans-unit id="155f0a38198ffbf0429c5dbf9765e74f246a8617" datatype="html">
+        <source>ON</source>
+        <target>On</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/switch/switch.component.d.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <note priority="1" from="description">The **On** label of the Switch.</note>
+        <note priority="1" from="meaning">kendo.switch.on</note>
+      </trans-unit>
+      <trans-unit id="79df1a6d2b35c32b2948e3cee56dd3ffe28127bc" datatype="html">
+        <source>OFF</source>
+        <target>Off</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">../node_modules/@progress/kendo-angular-inputs/dist/es/switch/switch.component.d.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <note priority="1" from="description">The **Off** label of the Switch.</note>
+        <note priority="1" from="meaning">kendo.switch.off</note>
       </trans-unit>
     </body>
   </file>
