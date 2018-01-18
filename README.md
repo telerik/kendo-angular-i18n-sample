@@ -36,7 +36,7 @@ To translate Kendo UI messages for the `"es-ES"` locale only, run the `npm run i
 
 ## Running the Application
 
-To run your application with the `es-ES` locale, run the `ng run start-es`.
+To run your application with the `es-ES` locale, run the `npm run start-es`.
 
 ## Original Angular CLI Documentation
 
