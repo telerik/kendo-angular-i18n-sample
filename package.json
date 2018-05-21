@@ -12,7 +12,8 @@
     "i18n-extract": "ng xi18n --i18n-format=xliff --out-file=locale/messages.xlf",
     "i18n-translate-kendo-es": "kendo-translate src/locale/messages.es.xlf --locale es-ES",
     "i18n-translate": "npm run i18n-translate-kendo-es",
-    "start-es": "ng serve --aot --i18n-file=src/locale/messages.es.xlf --locale=es"
+    "start-es": "ng serve --configuration=es",
+    "start-prod-es": "ng serve --configuration=production-es"
   },
   "private": true,
   "dependencies": {

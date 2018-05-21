@@ -42,6 +42,32 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ]
+            },
+            "es": {
+              "aot": true,
+              "i18nFile": "src/locale/messages.es.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "es"
+            },
+            "production-es": {
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "aot": true,
+              "i18nFile": "src/locale/messages.es.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "es",
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
             }
           }
         },
@@ -53,6 +79,12 @@
           "configurations": {
             "production": {
               "browserTarget": "kendo-angular-i18n-sample:build:production"
+            },
+            "es": {
+              "browserTarget": "kendo-angular-i18n-sample:build:es"
+            },
+            "production-es": {
+              "browserTarget": "kendo-angular-i18n-sample:build:production-es"
             }
           }
         },
