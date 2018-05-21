@@ -26,7 +26,7 @@ For more details, refer to the article on [localization](http://www.telerik.com/
 
 ## Extracting Messages
 
-To extract the application messages in `src/i18n/messages.xlf`, run the `npm run i18n-extract` command.
+To extract the application messages in `src/locale/messages.xlf`, run the `npm run i18n-extract` command.
 
 ## Translating Messages
 
