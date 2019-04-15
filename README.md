@@ -1,3 +1,5 @@
+##  This repository is no longer updated. To access the current version, refer to the [`kendo-angular` repository](https://github.com/telerik/kendo-angular/tree/master/examples/projects/integration-i18n).
+
 # Kendo UI for Angular: Internationalization
 
 This repository contains a sample application which demonstrates how to translate the built-in messages of the Kendo UI for Angular components.
